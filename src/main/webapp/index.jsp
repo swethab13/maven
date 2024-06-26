@@ -18,6 +18,7 @@
 
         .container {
             text-align: center;
+            colour: red;
         }
 
         h1 {
@@ -43,7 +44,7 @@
 <body>
     <div class="container">
         <h1>Welcome to My Simple Web App!</h1>
-        <h2>Hello World!!</h2>
+
         <button id="myButton">Click Me</button>
         <p id="message"></p>
     </div>
